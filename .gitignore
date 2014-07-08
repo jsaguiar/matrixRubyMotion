@@ -1,0 +1,11 @@
+.repl_history
+build
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
+resources/*.xcdatamodeld
+vendor/Pods
+.idea/
+.bundle/
+.ruby-gemset
+.ruby-version
